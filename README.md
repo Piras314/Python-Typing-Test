@@ -1,2 +1,2 @@
 # Python-Typing-Test
-A Text-Based Typing Test made in Python
+A Text-Based Typing Test made in Python and Curses
